@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.css": "/Darshan/static/css/main.58a0c615.css",
+    "main.js": "/Darshan/static/js/main.ac925d40.js",
+    "static/media/HeroImage.jpg": "/Darshan/static/media/HeroImage.aa09e5cb1c5427d667b4.jpg",
+    "index.html": "/Darshan/index.html",
+    "main.58a0c615.css.map": "/Darshan/static/css/main.58a0c615.css.map",
+    "main.ac925d40.js.map": "/Darshan/static/js/main.ac925d40.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.58a0c615.css",
+    "static/js/main.ac925d40.js"
+  ]
+}
